@@ -6,9 +6,9 @@ author_profile: true
 ---
 ## Journal Papers
 (\# denotes co-first author)
-1. **Jiang Y** #, Li G #, Shao X, Guo H. Simultaneous Multi-Slice Diffusion Imaging using Navigator-free Multishot Spiral Acquisitions. Submitted to *Magn Recon Med*. Accepted. [[arxiv](https://arxiv.org/abs/2407.20904)]
-2. Pan Z #, **Jiang Y** #, Li S, Lu W, Han M, Kuang Y, Sun H, Wang X, Bai J, Liu W, Wang G, Guo H. Artifact Correction in Magnetic Resonance Temperature Imaging for Laser Interstitial Thermotherapy with Multi-echo Acquisitions. Submitted to *NMR Biomed*. Under Review. [[arxiv](https://arxiv.org/abs/2411.19559)]
-3. Fang Y, Li S, Wang J, Zhang Z, Jiang W, Wang C, **Jiang Y**, Guo H, Han X, Tian W. Diagnostic efficacy of tract-specific diffusion tensor imaging in cervical spondylotic myelopathy with electrophysiological examination validation. *Eur Spine J* 2024;33(3):1230-1244. [[pubmed](https://pubmed.ncbi.nlm.nih.gov/38286908/)]
+1. **Jiang Y** #, Li G #, Shao X, Guo H. Simultaneous multislice diffusion imaging using navigator-free multishot spiral acquisitions. *Magn Reson Med.* 2025; 1-16. doi: 10.1002/mrm.30427. [[doi](http://doi.org/10.1002/mrm.30427)]
+2. Pan Z #, **Jiang Y** #, Li S, Lu W, Han M, Kuang Y, Sun H, Wang X, Bai J, Liu W, Wang G, Guo H. Artifact Correction in Magnetic Resonance Temperature Imaging for Laser Interstitial Thermotherapy with Multi-echo Acquisitions. Submitted to *NMR Biomed.* Under Review. [[arxiv](https://arxiv.org/abs/2411.19559)]
+3. Fang Y, Li S, Wang J, Zhang Z, Jiang W, Wang C, **Jiang Y**, Guo H, Han X, Tian W. Diagnostic efficacy of tract-specific diffusion tensor imaging in cervical spondylotic myelopathy with electrophysiological examination validation. *Eur Spine J.* 2024;33(3):1230-1244. [[doi](https://doi.org/10.1007/s00586-023-08111-7)]
 4. Lian Y, **Jiang Y**, Guo H. Adaptive regularization weight selection for compressed sensing MRI reconstruction. Submitted to *Magn Recon Med*. Under Review.
 
 
